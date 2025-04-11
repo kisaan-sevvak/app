@@ -1,0 +1,17 @@
+{
+  "title": "Kisan Saathi AI",
+  "welcome": "Hello! I'm your AI farming assistant. How can I help you today?",
+  "message_hint": "Type your message...",
+  "speech_not_available": "Speech recognition is not available on this device",
+  "error": "Sorry, I couldn't process your request. Please try again.",
+  "try_again": "Please try again",
+  "processing": "Thinking...",
+  "suggestions": {
+    "weather": "What's the weather forecast?",
+    "crop": "What crops should I grow?",
+    "market": "What are the current market prices?",
+    "disease": "How to treat plant diseases?",
+    "irrigation": "When should I irrigate my crops?",
+    "fertilizer": "What fertilizers should I use?"
+  }
+} 

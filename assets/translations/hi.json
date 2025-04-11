@@ -1,0 +1,136 @@
+{
+  "app": {
+    "name": "किसान सेवक",
+    "tagline": "आपका AI-संचालित कृषि सहायक"
+  },
+  "onboarding": {
+    "welcome": "किसान सेवक में आपका स्वागत है",
+    "description": "आपका AI-संचालित कृषि सहायक जो आपको बेहतर फसलें उगाने और उपज बढ़ाने में मदद करता है",
+    "getStarted": "शुरू करें",
+    "next": "अगला",
+    "skip": "छोड़ें"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "rememberMe": "मुझे याद रखें",
+    "loginWithAadhaar": "आधार से लॉगिन करें",
+    "or": "या",
+    "dontHaveAccount": "खाता नहीं है?",
+    "alreadyHaveAccount": "पहले से खाता है?"
+  },
+  "dashboard": {
+    "greeting": "नमस्ते {name} जी, {location} से",
+    "weather": "मौसम",
+    "cropProgress": "फसल प्रगति",
+    "quickActions": "त्वरित कार्य",
+    "startNewCrop": "नई फसल शुरू करें",
+    "agroLens": "एग्रो लेंस",
+    "govSchemes": "सरकारी योजनाएं",
+    "myCrops": "मेरी फसलें",
+    "recentActivities": "हाल की गतिविधियां"
+  },
+  "cropJourney": {
+    "title": "नई फसल शुरू करें",
+    "selectCrop": "फसल चुनें",
+    "location": "स्थान",
+    "farmSize": "खेत का आकार",
+    "irrigationMethod": "सिंचाई विधि",
+    "seedRecommendation": "बीज सिफारिश",
+    "soilAnalysis": "मिट्टी विश्लेषण",
+    "schedule": "अनुसूची",
+    "next": "अगला",
+    "previous": "पिछला",
+    "complete": "पूर्ण"
+  },
+  "cropTracker": {
+    "title": "फसल ट्रैकर",
+    "addTask": "कार्य जोड़ें",
+    "editTask": "कार्य संपादित करें",
+    "deleteTask": "कार्य हटाएं",
+    "markComplete": "पूर्ण चिह्नित करें",
+    "tasks": {
+      "ploughing": "जुताई",
+      "sowing": "बुवाई",
+      "irrigation": "सिंचाई",
+      "fertilizing": "खाद डालना",
+      "harvesting": "कटाई"
+    }
+  },
+  "agroLens": {
+    "title": "एग्रो लेंस",
+    "scanCrop": "फसल स्कैन करें",
+    "uploadImage": "छवि अपलोड करें",
+    "analyzing": "विश्लेषण कर रहा है...",
+    "diseaseDetected": "रोग का पता चला",
+    "riskLevel": "जोखिम स्तर",
+    "solution": "समाधान",
+    "chatWithAI": "AI से चैट करें"
+  },
+  "myCrops": {
+    "title": "मेरी फसलें",
+    "addCrop": "फसल जोड़ें",
+    "editCrop": "फसल संपादित करें",
+    "deleteCrop": "फसल हटाएं",
+    "cropDetails": "फसल विवरण",
+    "healthStatus": "स्वास्थ्य स्थिति",
+    "fieldSize": "खेत का आकार",
+    "plantingDate": "रोपण तिथि"
+  },
+  "govSchemes": {
+    "title": "सरकारी योजनाएं",
+    "availableSchemes": "उपलब्ध योजनाएं",
+    "appliedSchemes": "आवेदन की गई योजनाएं",
+    "applyNow": "अभी आवेदन करें",
+    "bookmark": "बुकमार्क",
+    "removeBookmark": "बुकमार्क हटाएं"
+  },
+  "weather": {
+    "title": "मौसम",
+    "forecast": "5-दिन का पूर्वानुमान",
+    "humidity": "आर्द्रता",
+    "temperature": "तापमान",
+    "rainChance": "बारिश की संभावना"
+  },
+  "mandiPrices": {
+    "title": "मंडी भाव",
+    "currentPrices": "वर्तमान भाव",
+    "filterByCrop": "फसल के अनुसार फ़िल्टर",
+    "filterByLocation": "स्थान के अनुसार फ़िल्टर",
+    "price": "कीमत",
+    "location": "स्थान"
+  },
+  "aiBot": {
+    "title": "AI बॉट से पूछें",
+    "typeMessage": "अपना संदेश टाइप करें...",
+    "send": "भेजें",
+    "voiceInput": "आवाज़ इनपुट",
+    "suggestedQueries": "सुझाए गए प्रश्न",
+    "bestFertilizer": "{crop} के लिए सर्वोत्तम खाद",
+    "nextIrrigation": "{crop} के लिए अगली सिंचाई की तिथि",
+    "diseaseTreatment": "{disease} का उपचार"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "language": "भाषा",
+    "darkMode": "डार्क मोड",
+    "about": "ऐप के बारे में",
+    "contactSupport": "सहायता से संपर्क करें",
+    "logout": "लॉगआउट"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफल",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "confirm": "पुष्टि करें",
+    "back": "वापस"
+  }
+} 

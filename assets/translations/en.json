@@ -1,0 +1,136 @@
+{
+  "app": {
+    "name": "Kisan Sevak",
+    "tagline": "Your AI-powered farming assistant"
+  },
+  "onboarding": {
+    "welcome": "Welcome to Kisan Sevak",
+    "description": "Your AI-powered farming assistant that helps you grow better crops and increase your yield",
+    "getStarted": "Get Started",
+    "next": "Next",
+    "skip": "Skip"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "rememberMe": "Remember Me",
+    "loginWithAadhaar": "Login with Aadhaar",
+    "or": "OR",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?"
+  },
+  "dashboard": {
+    "greeting": "Hello {name} from {location}",
+    "weather": "Weather",
+    "cropProgress": "Crop Progress",
+    "quickActions": "Quick Actions",
+    "startNewCrop": "Start New Crop",
+    "agroLens": "Agro Lens",
+    "govSchemes": "Government Schemes",
+    "myCrops": "My Crops",
+    "recentActivities": "Recent Activities"
+  },
+  "cropJourney": {
+    "title": "Start New Crop",
+    "selectCrop": "Select Crop",
+    "location": "Location",
+    "farmSize": "Farm Size",
+    "irrigationMethod": "Irrigation Method",
+    "seedRecommendation": "Seed Recommendation",
+    "soilAnalysis": "Soil Analysis",
+    "schedule": "Schedule",
+    "next": "Next",
+    "previous": "Previous",
+    "complete": "Complete"
+  },
+  "cropTracker": {
+    "title": "Crop Tracker",
+    "addTask": "Add Task",
+    "editTask": "Edit Task",
+    "deleteTask": "Delete Task",
+    "markComplete": "Mark Complete",
+    "tasks": {
+      "ploughing": "Ploughing",
+      "sowing": "Sowing",
+      "irrigation": "Irrigation",
+      "fertilizing": "Fertilizing",
+      "harvesting": "Harvesting"
+    }
+  },
+  "agroLens": {
+    "title": "Agro Lens",
+    "scanCrop": "Scan Crop",
+    "uploadImage": "Upload Image",
+    "analyzing": "Analyzing...",
+    "diseaseDetected": "Disease Detected",
+    "riskLevel": "Risk Level",
+    "solution": "Solution",
+    "chatWithAI": "Chat with AI"
+  },
+  "myCrops": {
+    "title": "My Crops",
+    "addCrop": "Add Crop",
+    "editCrop": "Edit Crop",
+    "deleteCrop": "Delete Crop",
+    "cropDetails": "Crop Details",
+    "healthStatus": "Health Status",
+    "fieldSize": "Field Size",
+    "plantingDate": "Planting Date"
+  },
+  "govSchemes": {
+    "title": "Government Schemes",
+    "availableSchemes": "Available Schemes",
+    "appliedSchemes": "Applied Schemes",
+    "applyNow": "Apply Now",
+    "bookmark": "Bookmark",
+    "removeBookmark": "Remove Bookmark"
+  },
+  "weather": {
+    "title": "Weather",
+    "forecast": "5-Day Forecast",
+    "humidity": "Humidity",
+    "temperature": "Temperature",
+    "rainChance": "Rain Chance"
+  },
+  "mandiPrices": {
+    "title": "Mandi Prices",
+    "currentPrices": "Current Prices",
+    "filterByCrop": "Filter by Crop",
+    "filterByLocation": "Filter by Location",
+    "price": "Price",
+    "location": "Location"
+  },
+  "aiBot": {
+    "title": "Ask AI Bot",
+    "typeMessage": "Type your message...",
+    "send": "Send",
+    "voiceInput": "Voice Input",
+    "suggestedQueries": "Suggested Queries",
+    "bestFertilizer": "Best fertilizer for {crop}",
+    "nextIrrigation": "Next irrigation date for {crop}",
+    "diseaseTreatment": "Treatment for {disease}"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "about": "About App",
+    "contactSupport": "Contact Support",
+    "logout": "Logout"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "back": "Back"
+  }
+} 

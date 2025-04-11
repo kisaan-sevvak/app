@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "307410339634",
+    "project_id": "kisan-sevak-app",
+    "storage_bucket": "kisan-sevak-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307410339634:android:0ac298738108ddeb12392b",
+        "android_client_info": {
+          "package_name": "com.kisansevak.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwWTDmVY4Wnwpc3qHujwxJto8qWclVtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307410339634:android:eafb8a452b46df6e12392b",
+        "android_client_info": {
+          "package_name": "om.kisansevak.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwWTDmVY4Wnwpc3qHujwxJto8qWclVtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
